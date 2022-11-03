@@ -1,0 +1,10 @@
+{
+  "ui": {
+    "background": {
+      "lvl1": {
+        "value": "{global.dark-purple.500}",
+        "type": "color"
+      }
+    }
+  }
+}
